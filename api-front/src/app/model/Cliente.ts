@@ -1,6 +1,6 @@
 export class Cliente {
-  codigo:Number = 0;
-  nome:String = "";
-  idade:Number = 0;
-  cidade:String = "";
+  codigo:number = 0;
+  nome:string = '';
+  idade:number = 0;
+  cidade:string = '';
 }
